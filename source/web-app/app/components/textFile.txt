@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 
@@ -8,3 +9,6 @@
 HI 
 SDS 
 SDS
+=======
+hi this is the fisrt commit
+>>>>>>> 1st commit

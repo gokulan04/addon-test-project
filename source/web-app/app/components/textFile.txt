@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-1
-2
-
-3
-4
-5
-
-HI 
-SDS 
-SDS
-=======
 hi this is the fisrt commit
->>>>>>> 1st commit
